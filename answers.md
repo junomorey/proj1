@@ -1,4 +1,6 @@
 # Q0: Why is this error being thrown?
+	this error is being thrown because I have not yet generated the pokemon model.
+
 
 # Q1: How are the random Pokemon appearing? What is the common factor between all the possible Pokemon that appear? *
 
